@@ -21,12 +21,17 @@
 
 ---
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YugMathur05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=YugMathur05&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YugMathur05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com?user=YugMathur05&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight)
+
+
+
 
 ---
 
