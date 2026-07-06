@@ -10,12 +10,12 @@
 
 ## 🚀 About Me
 
-* 🎓 CSE Undergraduate passionate about Software Development
-* ⚛️ Building responsive and interactive web applications using **React**
-* 🌱 Currently learning **Next.js, TypeScript & Backend Development**
-* 🧠 Solving **DSA problems in C++**
-* 💡 Interested in Full Stack Development and Open Source
-* 🎯 Goal: Become a skilled Software Engineer
+- 🎓 CSE Undergraduate passionate about Software Development
+- ⚛️ Building responsive and interactive web applications using **React**
+- 🌱 Currently learning **Next.js & Backend Development**
+- 🧠 Solving **DSA problems in C++**
+- 💡 Interested in Full Stack Development and Open Source
+- 🎯 Goal: Become a skilled Software Engineer
 
 ---
 
@@ -40,9 +40,7 @@
 ## 💻 Tech Stack
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,git,github,vscode,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,git,github,vscode,tailwind" />
 </p>
 
 ---
@@ -50,39 +48,33 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YugMathur05&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=YugMathur05&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 📌 Currently Learning
 
-* ⚡ React Ecosystem
-* ⚡ Next.js
-* ⚡ TypeScript
-* ⚡ Node.js & Express
-* ⚡ MongoDB
-* ⚡ Data Structures & Algorithms
+- ⚡ React Ecosystem
+- ⚡ Next.js
+- ⚡ Node.js & Express
+- ⚡ MongoDB
+- ⚡ Data Structures & Algorithms
 
 ---
 
 ## 🎯 2026 Goals
 
-* ✅ Build impactful Full Stack Projects
-* ✅ Master MERN Stack
-* ✅ Contribute to Open Source
-* ✅ Strengthen DSA & Problem Solving
-* ✅ Land a Software Engineering Internship
+- ✅ Build impactful Full Stack Projects
+- ✅ Master MERN Stack
+- ✅ Contribute to Open Source
+- ✅ Strengthen DSA & Problem Solving
+- ✅ Land a Software Engineering Internship
 
 ---
 
