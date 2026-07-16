@@ -24,6 +24,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/yug-mathur-710612381">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -35,6 +36,11 @@
 <a href="https://www.instagram.com/yug_mathur05">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<a href="https://leetcode.com/u/YUG_MATHUR/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </p>
 
 ---
@@ -47,6 +53,14 @@
 
 ---
 
+# 🏆 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/YUG_MATHUR?theme=dark&font=Karma&ext=contest" />
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -55,6 +69,14 @@
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YugMathur05&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -78,10 +100,11 @@
 
 # 🎯 2026 Goals
 
-- ✅ Build Production Ready MERN Projects
+- ✅ Build Production Ready MERN Stack Projects
 - ✅ Contribute to Open Source
 - ✅ Reach 300+ DSA Problems
-
+- ✅ Strengthen System Design Fundamentals
+- ✅ Crack Software Engineering Internship
 
 ---
 
