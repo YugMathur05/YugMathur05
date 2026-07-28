@@ -64,25 +64,22 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Yug's GitHub Stats"
-  />
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p> iska code do pura shi
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YugMathur05&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=YugMathur05&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
