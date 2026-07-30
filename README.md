@@ -5,29 +5,25 @@
 </h3>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YugMathur05&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=YugMathur05&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 Computer Science Engineering Undergraduate
-- 💻 MERN Stack Developer
-- ⚛️ Passionate about React & Full Stack Development
-- 🧠 Solving Data Structures & Algorithms in C++
-- 🌱 Currently Learning Next.js
-- 🚀 Exploring Backend Development
-- ❤️ Open Source Enthusiast
+- ⚛️ Passionate about building responsive web applications using **React & MERN Stack**
+- 🧠 Regularly solving **Data Structures & Algorithms** in **C++**
+- 🌱 Currently exploring **Next.js** and Backend Development
+- 💡 Interested in Open Source & Full Stack Development
 - 🎯 Aspiring Software Engineer
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/yug-mathur-710612381">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -52,27 +48,19 @@
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,git,github,vscode,tailwind,nextjs" />
 </p>
 
 ---
 
-# 🏆 LeetCode
+# 🏆 LeetCode Stats
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/YUG_MATHUR?theme=dark&font=Karma&ext=contest"/>
-
+<img src="https://leetcard.jacoblin.cool/YUG_MATHUR?theme=dark&font=Karma&ext=contest" />
 </p>
 
-<br>
-
 <p align="center">
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=YUG_MATHUR&theme=dark"/>
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=YUG_MATHUR&theme=dark" />
 </p>
 
 ---
@@ -92,9 +80,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=YugMathur05&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -102,9 +88,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=YugMathur05&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
 </p>
 
 ---
@@ -112,9 +96,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YugMathur05&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -125,42 +107,29 @@
 - ⚡ Backend Development
 - ⚡ MongoDB
 - ⚡ Data Structures & Algorithms
-- ⚡ System Design
-
----
-
-# 🚀 Featured Projects
-
-| Project | Tech Stack |
-|----------|------------|
-| 🏦 Bank Transaction System | MERN Stack |
-| 🌐 Personal Portfolio | React + Tailwind |
-| 📚 DSA Repository | C++ |
-| 🎯 Mini Web Projects | HTML CSS JS |
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Solve 300+ DSA Problems
-- ✅ Master MERN Stack
-- ✅ Learn Next.js
+- ✅ Build Production Ready MERN Stack Projects
 - ✅ Contribute to Open Source
-- ✅ Build Production Ready Projects
+- ✅ Reach 300+ DSA Problems
+- ✅ Strengthen System Design Fundamentals
 - ✅ Crack Software Engineering Internship
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
-> 💡 **First, solve the problem. Then, write the code.**
+> 💡 **"First, solve the problem. Then, write the code."**
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting!
+### Thanks for visiting ❤️
 
-If you like my repositories, don't forget to ⭐ them.
+⭐ Don't forget to star repositories you like!
 
 </p>
