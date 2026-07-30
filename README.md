@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yug Mathur</h1>
 
 <h3 align="center">
-💻 CSE Undergraduate | MERN Stack Developer | DSA Enthusiast (C++)
+💻 CSE Undergraduate • MERN Stack Developer • React Enthusiast • DSA in C++
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YugMathur05&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YugMathur05&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -13,11 +13,11 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Engineering Undergraduate
-- 💻 Building scalable web applications using **MERN Stack**
+- 💻 Building full-stack web applications using **MERN Stack**
 - ⚛️ Working with **React.js, Node.js, Express.js & MongoDB**
-- 🧠 Solving **Data Structures & Algorithms in C++**
-- 🚀 Exploring **Next.js, Backend Architecture & System Design**
-- 🌱 Interested in Full Stack Development and Open Source
+- 🛠️ Developing REST APIs with authentication and database integration
+- 🧠 Practicing **Data Structures & Algorithms in C++**
+- 🌱 Currently exploring **Backend Development, Next.js & System Design Fundamentals**
 - 🎯 Aspiring Software Engineer
 
 ---
@@ -50,7 +50,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,mongodb,cpp,git,github,vscode,postman"/>
 
 </p>
 
@@ -115,17 +115,17 @@ src="https://github-readme-stats-khaki-seven-26.vercel.app/api/top-langs/?userna
 - ⚡ Advanced Backend Development
 - ⚡ Next.js
 - ⚡ System Design Fundamentals
-- ⚡ Cloud Deployment
 - ⚡ Data Structures & Algorithms
+- ⚡ Cloud Deployment
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Build Production Ready Full Stack Projects
+- 🚀 Build Production Ready MERN Stack Projects
 - ⭐ Contribute to Open Source
 - 🧠 Solve 300+ DSA Problems
-- 📚 Improve System Design Skills
+- 📚 Improve Backend & System Design Skills
 - 💼 Crack Software Engineering Internship
 
 ---
