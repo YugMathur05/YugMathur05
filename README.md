@@ -5,27 +5,31 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YugMathur05&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://komarev.com/ghpvc/?username=YugMathur05&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Computer Science Engineering Undergraduate
-- ⚛️ Passionate about building responsive web applications using **React & MERN Stack**
-- 🧠 Regularly solving **Data Structures & Algorithms** in **C++**
-- 🌱 Currently exploring **Next.js** and Backend Development
-- 💡 Interested in Open Source & Full Stack Development
+- 💻 MERN Stack Developer
+- ⚛️ Passionate about React & Full Stack Development
+- 🧠 Solving Data Structures & Algorithms in C++
+- 🌱 Currently Learning Next.js
+- 🚀 Exploring Backend Development
+- ❤️ Open Source Enthusiast
 - 🎯 Aspiring Software Engineer
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/yugmathur">
+<a href="https://www.linkedin.com/in/yug-mathur-710612381">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -48,15 +52,27 @@
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,git,github,vscode,tailwind,nextjs" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind"/>
+
 </p>
 
 ---
 
-# 🏆 LeetCode Stats
+# 🏆 LeetCode
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YUG_MATHUR?theme=dark&font=Karma&ext=contest" />
+
+<img src="https://leetcard.jacoblin.cool/YUG_MATHUR?theme=dark&font=Karma&ext=contest"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=YUG_MATHUR&theme=dark"/>
+
 </p>
 
 ---
@@ -65,21 +81,30 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p> 
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=YugMathur05&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    alt="GitHub Streak"
-  />
+
+<img src="https://streak-stats.demolab.com?user=YugMathur05&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YugMathur05&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
 </p>
 
 ---
@@ -87,7 +112,9 @@
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YugMathur05&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -98,29 +125,42 @@
 - ⚡ Backend Development
 - ⚡ MongoDB
 - ⚡ Data Structures & Algorithms
+- ⚡ System Design
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Tech Stack |
+|----------|------------|
+| 🏦 Bank Transaction System | MERN Stack |
+| 🌐 Personal Portfolio | React + Tailwind |
+| 📚 DSA Repository | C++ |
+| 🎯 Mini Web Projects | HTML CSS JS |
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Build Production Ready MERN Stack Projects
+- ✅ Solve 300+ DSA Problems
+- ✅ Master MERN Stack
+- ✅ Learn Next.js
 - ✅ Contribute to Open Source
-- ✅ Reach 300+ DSA Problems
-- ✅ Strengthen System Design Fundamentals
+- ✅ Build Production Ready Projects
 - ✅ Crack Software Engineering Internship
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
-> 💡 **"First, solve the problem. Then, write the code."**
+> 💡 **First, solve the problem. Then, write the code.**
 
 ---
 
 <p align="center">
 
-### Thanks for visiting ❤️
+### ⭐ Thanks for visiting!
 
-⭐ Don't forget to star repositories you like!
+If you like my repositories, don't forget to ⭐ them.
 
 </p>
