@@ -14,8 +14,8 @@
 
 - 🎓 Computer Science Engineering Undergraduate
 - 💻 Building scalable web applications using **MERN Stack**
-- ⚛️ Experienced with **React.js, Node.js, Express.js & MongoDB**
-- 🧠 Solving **Data Structures & Algorithms problems in C++**
+- ⚛️ Working with **React.js, Node.js, Express.js & MongoDB**
+- 🧠 Practicing **Data Structures & Algorithms in C++**
 - 🚀 Exploring **Next.js, Backend Architecture & System Design**
 - 🌱 Interested in Full Stack Development and Open Source
 - 🎯 Aspiring Software Engineer
@@ -50,7 +50,7 @@
 
 <p align="center">
 
-<img src="https://skillics.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind"/>
 
 </p>
 
@@ -64,7 +64,6 @@
 
 </p>
 
-
 ---
 
 # 📊 GitHub Stats
@@ -72,11 +71,10 @@
 <p align="center">
 
 <img height="170"
-src="YOUR_DEPLOYED_STATS_URL/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
+src="https://github-readme-stats-khaki-seven-26.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="170"
-src="YOUR_DEPLOYED_STATS_URL/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+src="https://github-readme-stats-khaki-seven-26.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
@@ -124,10 +122,10 @@ src="YOUR_DEPLOYED_STATS_URL/api/top-langs/?username=YugMathur05&layout=compact&
 
 # 🎯 2026 Goals
 
-- 🚀 Build production-ready Full Stack Projects
+- 🚀 Build Production Ready Full Stack Projects
 - ⭐ Contribute to Open Source
 - 🧠 Solve 300+ DSA Problems
-- 📚 Improve System Design Knowledge
+- 📚 Improve System Design Skills
 - 💼 Crack Software Engineering Internship
 
 ---
