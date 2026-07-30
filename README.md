@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yug Mathur</h1>
 
 <h3 align="center">
-💻 CSE Undergraduate • MERN Stack Developer • React Enthusiast • DSA in C++
+💻 CSE Undergraduate | MERN Stack Developer | DSA Enthusiast (C++)
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YugMathur05&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YugMathur05&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -13,10 +13,11 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Engineering Undergraduate
-- ⚛️ Passionate about building responsive web applications using **React & MERN Stack**
-- 🧠 Regularly solving **Data Structures &Algorithms** in **C++**
-- 🌱 Currently exploring **Next.js** and Backend Development
-- 💡 Interested in Open Source & Full Stack Development
+- 💻 Building scalable web applications using **MERN Stack**
+- ⚛️ Experienced with **React.js, Node.js, Express.js & MongoDB**
+- 🧠 Solving **Data Structures & Algorithms problems in C++**
+- 🚀 Exploring **Next.js, Backend Architecture & System Design**
+- 🌱 Interested in Full Stack Development and Open Source
 - 🎯 Aspiring Software Engineer
 
 ---
@@ -33,12 +34,12 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/yug_mathur05">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 <a href="https://leetcode.com/u/YUG_MATHUR/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/YugMathur05">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -48,7 +49,9 @@
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind" />
+
+<img src="https://skillics.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind"/>
+
 </p>
 
 ---
@@ -61,11 +64,6 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=YUG_MATHUR&theme=dark"/>
-
-</p>
 
 ---
 
@@ -73,9 +71,12 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170"
+src="YOUR_DEPLOYED_STATS_URL/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<img height="170"
+src="YOUR_DEPLOYED_STATS_URL/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
@@ -113,26 +114,27 @@
 
 # 📚 Currently Learning
 
+- ⚡ Advanced Backend Development
 - ⚡ Next.js
-- ⚡ Backend Development
-- ⚡ MongoDB
+- ⚡ System Design Fundamentals
+- ⚡ Cloud Deployment
 - ⚡ Data Structures & Algorithms
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Build Production Ready MERN Stack Projects
-- ✅ Contribute to Open Source
-- ✅ Reach 300+ DSA Problems
-- ✅ Strengthen System Design Fundamentals
-- ✅ Crack Software Engineering Internship
+- 🚀 Build production-ready Full Stack Projects
+- ⭐ Contribute to Open Source
+- 🧠 Solve 300+ DSA Problems
+- 📚 Improve System Design Knowledge
+- 💼 Crack Software Engineering Internship
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Quote
 
-> 💡 **"First, solve the problem. Then, write the code."**
+> "First, solve the problem. Then, write the code."
 
 ---
 
@@ -140,6 +142,6 @@
 
 ### Thanks for visiting ❤️
 
-⭐ Don't forget to star repositories you like!
+⭐ Feel free to explore my repositories!
 
 </p>
