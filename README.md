@@ -13,10 +13,11 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Engineering Undergraduate
-- 💻 MERN Stack Developer
-- ⚛️ Building Full Stack Web Applications
-- 🧠 Practicing Data Structures & Algorithms in C++
-- 🚀 Learning Next.js, Backend Architecture & System Design
+- 💻 Building scalable web applications using **MERN Stack**
+- ⚛️ Working with **React.js, Node.js, Express.js & MongoDB**
+- 🧠 Solving **Data Structures & Algorithms in C++**
+- 🚀 Exploring **Next.js, Backend Architecture & System Design**
+- 🌱 Interested in Full Stack Development and Open Source
 - 🎯 Aspiring Software Engineer
 
 ---
@@ -37,6 +38,10 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://github.com/YugMathur05">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -45,7 +50,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind"/>
 
 </p>
 
@@ -65,7 +70,7 @@
 
 <p align="center">
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=YUG_MATHUR"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=YUG_MATHUR&theme=dark"/>
 
 </p>
 
@@ -76,10 +81,10 @@
 <p align="center">
 
 <img height="170"
-src="https://github-readme-stats-khaki-seven-26.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+src="https://github-readme-stats-khaki-seven-26.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="170"
-src="https://github-readme-stats-khaki-seven-26.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-khaki-seven-26.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
@@ -90,16 +95,6 @@ src="https://github-readme-stats-khaki-seven-26.vercel.app/api/top-langs/?userna
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=YugMathur05&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YugMathur05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6"/>
 
 </p>
 
@@ -119,17 +114,18 @@ src="https://github-readme-stats-khaki-seven-26.vercel.app/api/top-langs/?userna
 
 - ⚡ Advanced Backend Development
 - ⚡ Next.js
-- ⚡ System Design
+- ⚡ System Design Fundamentals
 - ⚡ Cloud Deployment
-- ⚡ DSA in C++
+- ⚡ Data Structures & Algorithms
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Build Production Ready Projects
+- 🚀 Build Production Ready Full Stack Projects
 - ⭐ Contribute to Open Source
 - 🧠 Solve 300+ DSA Problems
+- 📚 Improve System Design Skills
 - 💼 Crack Software Engineering Internship
 
 ---
@@ -144,6 +140,6 @@ src="https://github-readme-stats-khaki-seven-26.vercel.app/api/top-langs/?userna
 
 ### Thanks for visiting ❤️
 
-⭐ Explore my repositories!
+⭐ Feel free to explore my repositories!
 
 </p>
