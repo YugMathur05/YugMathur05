@@ -15,7 +15,7 @@
 - 🎓 Computer Science Engineering Undergraduate
 - 💻 Building scalable web applications using **MERN Stack**
 - ⚛️ Working with **React.js, Node.js, Express.js & MongoDB**
-- 🧠 Practicing **Data Structures & Algorithms in C++**
+- 🧠 Solving **Data Structures & Algorithms in C++**
 - 🚀 Exploring **Next.js, Backend Architecture & System Design**
 - 🌱 Interested in Full Stack Development and Open Source
 - 🎯 Aspiring Software Engineer
@@ -50,7 +50,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express,mongodb,cpp,git,github,vscode,tailwind"/>
 
 </p>
 
@@ -61,6 +61,16 @@
 <p align="center">
 
 <img src="https://leetcard.jacoblin.cool/YUG_MATHUR?theme=dark&font=Karma&ext=contest"/>
+
+</p>
+
+---
+
+# 🏅 LeetCode Badge
+
+<p align="center">
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=YUG_MATHUR&theme=dark"/>
 
 </p>
 
@@ -94,7 +104,7 @@ src="https://github-readme-stats-khaki-seven-26.vercel.app/api/top-langs/?userna
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YugMathur05&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YugMathur05&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
