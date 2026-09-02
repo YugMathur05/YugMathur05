@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YugMathur05&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=YugMathur05&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - ⚛️ Working with **React.js, Node.js, Express.js & MongoDB**
 - 🛠️ Developing REST APIs with authentication and database integration
 - 🧠 Practicing **Data Structures & Algorithms in C++**
-- 🌱 Currently exploring **Backend Development, Next.js & System Design**
+- 🌱 Currently exploring **Backend Development, Next.js & System Design Fundamentals**
 - 🎯 Aspiring Software Engineer
 
 ---
@@ -56,7 +56,7 @@
 
 ---
 
-# 🏆 LeetCode
+# 🏆 LeetCode Stats
 
 <p align="center">
 
@@ -70,19 +70,25 @@
 
 ---
 
+# 🏅 LeetCode Badges
+
+<p align="center">
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=YUG_MATHUR&theme=dark&animated=true"/>
+
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true"
-  height="180"
-/>
+<img height="170"
+src="https://github-readme-stats-khaki-seven-26.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  height="180"
-/>
+<img height="170"
+src="https://github-readme-stats-khaki-seven-26.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
@@ -92,23 +98,25 @@
 
 <p align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=YugMathur05&theme=tokyonight&hide_border=true"
-/>
+<img src="https://streak-stats.demolab.com?user=YugMathur05&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Activity
+# 🧠 DSA
 
-<p align="center">
+Currently solving **Data Structures & Algorithms problems in C++**.
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YugMathur05&theme=tokyo-night&hide_border=true&area=true"
-/>
+## Topics
 
-</p>
+`Arrays` • `Strings` • `Hashing` • `Two Pointers` • `Sliding Window`
+
+`Binary Search` • `Recursion` • `Backtracking` • `Linked List`
+
+`Stack` • `Queue` • `Heap` • `Greedy` • `Trees` • `BST`
+
+`Trie` • `Graph` • `Dynamic Programming` • `Bit Manipulation`
 
 ---
 
@@ -124,57 +132,11 @@
 
 # 🎯 2026 Goals
 
-- 🚀 Build Production-Ready MERN Stack Projects
+- 🚀 Build Production Ready MERN Stack Projects
 - ⭐ Contribute to Open Source
 - 🧠 Solve 300+ DSA Problems
 - 📚 Improve Backend & System Design Skills
 - 💼 Crack Software Engineering Internship
-
----
-
-# 🧠 DSA
-
-Currently solving **Data Structures & Algorithms problems in C++**.
-
-### Topics
-
-`Arrays` • `Strings` • `Hashing` • `Two Pointers` • `Sliding Window`
-
-`Binary Search` • `Recursion` • `Backtracking` • `Linked List`
-
-`Stack` • `Queue` • `Heap` • `Greedy` • `Trees` • `BST`
-
-`Trie` • `Graph` • `Dynamic Programming` • `Bit Manipulation`
-
----
-
-# 🚀 Featured Projects
-
-### 🏦 Bank Transaction System
-
-Full-stack banking application built using the MERN stack.
-
-**Features:**
-
-- 🔐 JWT Authentication
-- 🍪 HTTP-Only Cookies
-- 🔒 Password Hashing
-- 💳 Deposit / Withdraw / Transfer
-- 📊 Transaction History
-- 🗄️ MongoDB Database
-- 🚀 Cloud Deployment
-
----
-
-### 🌐 Web Development Projects
-
-Collection of frontend and full-stack projects built using modern web technologies.
-
-**Tech Used:**
-
-`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`
-
-`Node.js` `Express.js` `MongoDB`
 
 ---
 
