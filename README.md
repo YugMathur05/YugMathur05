@@ -122,11 +122,10 @@ Currently solving **Data Structures & Algorithms problems in C++**.
 
 # 📚 Currently Learning
 
-- ⚡ Advanced Backend Development
-- ⚡ Next.js
-- ⚡ System Design Fundamentals
-- ⚡ Data Structures & Algorithms
-- ⚡ Cloud Deployment
+- 🧠 Data Structures & Algorithms (DSA)
+- 💻 Object-Oriented Programming (OOPs)
+- 🖥️ Operating Systems (OS)
+- 🌐 Full Stack Development (FSD)
 
 ---
 
