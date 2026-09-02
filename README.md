@@ -27,19 +27,19 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/yug-mathur-710612381">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:yug.m0578@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/YUG_MATHUR/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://github.com/YugMathur05">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -56,11 +56,13 @@
 
 ---
 
-# 🏆 LeetCode Stats
+# 🏆 LeetCode
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YUG_MATHUR?theme=dark&font=Karma&ext=contest&cache=0"/>
+<a href="https://leetcode.com/u/YUG_MATHUR/">
+<img src="https://leetcard.jacoblin.cool/YUG_MATHUR?theme=dark&font=Karma&ext=contest"/>
+</a>
 
 </p>
 
@@ -70,11 +72,11 @@
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats-khaki-seven-26.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=YugMathur05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img height="170"
-src="https://github-readme-stats-khaki-seven-26.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugMathur05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
@@ -85,16 +87,6 @@ src="https://github-readme-stats-khaki-seven-26.vercel.app/api/top-langs/?userna
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=YugMathur05&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YugMathur05&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
@@ -120,68 +112,19 @@ src="https://github-readme-stats-khaki-seven-26.vercel.app/api/top-langs/?userna
 
 ---
 
-# 🛠️ Featured Projects
-
-### 🏦 Bank Transaction System
-
-Full-stack banking application built with the MERN stack.
-
-**Features:**
-- 🔐 JWT Authentication
-- 🍪 HTTP-Only Cookies
-- 🔒 Password Hashing with bcrypt
-- 💳 Deposit / Withdraw / Transfer
-- 📊 Transaction History
-- 🗄️ MongoDB Database
-- 🚀 Cloud Deployment
-
----
-
-### 🌐 Web Development Projects
-
-A collection of frontend and full-stack projects built while learning modern web development.
-
-**Tech Used:**
-`HTML` `CSS` `JavaScript` `React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
-
----
-
 # 🧠 DSA
 
 Currently solving **Data Structures & Algorithms problems in C++**.
 
-### Topics I'm Practicing
+### Topics
 
-- Arrays
-- Strings
-- Hashing
-- Two Pointers
-- Sliding Window
-- Binary Search
-- Recursion
-- Backtracking
-- Linked List
-- Stack & Queue
-- Heap
-- Greedy
-- Binary Trees
-- BST
-- Trie
-- Graph
-- Dynamic Programming
-- Bit Manipulation
+`Arrays` • `Strings` • `Hashing` • `Two Pointers` • `Sliding Window`
 
----
+`Binary Search` • `Recursion` • `Backtracking` • `Linked List`
 
-# 📈 GitHub Activity
+`Stack` • `Queue` • `Heap` • `Greedy` • `Trees` • `BST`
 
-<p align="center">
-
-<a href="https://github.com/YugMathur05">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YugMathur05&theme=tokyo-night&hide_border=true&area=true&custom_title=Yug%20Mathur's%20GitHub%20Activity"/>
-</a>
-
-</p>
+`Trie` • `Graph` • `Dynamic Programming` • `Bit Manipulation`
 
 ---
 
